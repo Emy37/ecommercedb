@@ -1,16 +1,16 @@
 {
     "prodotti": [
     {
-      "nome": "prodotto1",
-      "descrizione": "Descrizione del prodotto 1"
+      "nome": "Giacca in pelle",
+      "descrizione": "Pelle 100% italiana per tutte le taglie"
     },
     {
-      "nome": "prodotto2",
-      "descrizione": "Descrizione del prodotto 2"
+      "nome": "Pantalone Di lino",
+      "descrizione": "Lino 100% puro Disponibile solo in poche taglie"
     },
     {
-      "nome": "prodotto3",
-      "descrizione": "Descrizione del prodotto 3"
+      "nome": "Scarpe Nike",
+      "descrizione": "Scarpe nike disponibili in varie Grafiche"
     }
   ]
 }
